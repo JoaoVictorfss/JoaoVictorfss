@@ -3,7 +3,7 @@
 ---
 
 <p>
-  I am an IT student and a technology enthusiast. I have been studying web development since 2019, therefore acquiring knowledge about JavaScript, database, HTML, CSS, React, Angular and         Node. Nice to meet you!
+  I am an IT student and a technology enthusiast. I have been studying web development since 2019, therefore acquiring knowledge about JavaScript, database, HTML, CSS, React, Angular, Java and Node. Nice to meet you!
 </p
   
 ---
@@ -16,6 +16,9 @@
 
 ### Languages and Tools:
 
+[<code>
+<img alt="java" width="40px" src="https://s2.glbimg.com/5KMSixqxLcMHN0f0oiUvE2rQwIU=/850x446/s2.glbimg.com/Xdw2Ii3YcKAYkFlejYOFmqEms84=/695x0/s.glbimg.com/po/tt2/f/original/2014/03/11/veja-como-resolver-problemas-com-o-java-no-pc.jpg" />
+</code>](https://docs.oracle.com/en/java/)
 [<code>
 <img alt="visual studio code" width="26px" src="https://img.icons8.com/fluent/240/000000/visual-studio-code-2019.png" />
 </code>](https://code.visualstudio.com/)
