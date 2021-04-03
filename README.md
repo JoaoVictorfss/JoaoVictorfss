@@ -3,7 +3,7 @@
 ---
 
 <p>
-  I am an IT student and a technology enthusiast. I have been studying web development since 2019, therefore acquiring knowledge about JavaScript, database, HTML, CSS, React, Angular, Java and Node. Nice to meet you!
+  I am an IT student and a technology enthusiast. I have been studying web development since 2019, therefore acquiring knowledge about, design patterns, microservices, scalable technologies, JaScript, atabase, HTML, CSS, React, Angular, Java and Node. Nice to meet you!
 </p
   
 ---
