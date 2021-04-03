@@ -3,7 +3,7 @@
 ---
 
 <p>
-  I am an IT student and a technology enthusiast. I have been studying web development since 2019, therefore acquiring knowledge about, design patterns, microservices, scalable technologies, JavaScript, database, HTML, CSS, React, GraphQl, Angular, Java, Kotlin, Node, Linux and Git. Nice to meet you!
+  I am an IT student and a technology enthusiast. I have been studying web development since 2019, therefore acquiring knowledge about, design patterns, microservices, scalable technologies, JavaScript, database, HTML, CSS, React, GraphQL, Angular, Java, Kotlin, Node, Linux and Git. Nice to meet you!
 </p
   
 ---
@@ -67,6 +67,12 @@
 [<code>
 <img alt="linux" width="26px" src="https://img.icons8.com/color/96/000000/linux.png">
 </code>](https://www.kernel.org/)
+[<code>
+<img alt="kotlin" width="26px" src="https://img.icons8.com/color/96/000000/kotlin.png">
+</code>](https://kotlinlang.org/)
+[<code>
+<img alt="graphQL" width="26px" src="https://img.icons8.com/color/96/000000/graphql.png">
+</code>](https://graphql.org/)
 
 
 
