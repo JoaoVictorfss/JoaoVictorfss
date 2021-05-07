@@ -11,6 +11,7 @@
 ### Connect with me:
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fagnerpsantos/)](https://www.linkedin.com/in/jo%C3%A3o-victor-fernandes-b6622a1b7/)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-red?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/in/fagnerpsantos/)](https://www.instagram.com/joaovictor_fss/)
 
 ---
 
