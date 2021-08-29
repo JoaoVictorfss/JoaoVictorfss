@@ -3,7 +3,7 @@
 ---
 
 <p>
-  I am an IT student and a technology enthusiast. I have been studying web development since 2019, therefore acquiring knowledge about design patterns, microservices, scalable technologies, JavaScript, database, HTML, CSS, React, GraphQL, Angular, Java, Kotlin, Node, Linux and Git. Nice to meet you!
+  I am an IT student and a technology enthusiast. I have been studying web development since 2019, therefore acquiring knowledge about design patterns, clean code, microservices, scalable technologies, JavaScript, database, HTML, CSS, React, GraphQL, Angular, Java, C#, Kotlin, Node, Linux and Git. Nice to meet you!
 </p
   
 ---
