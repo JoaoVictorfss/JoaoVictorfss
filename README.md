@@ -21,6 +21,9 @@
 <img alt="java" width="40px" src="https://s2.glbimg.com/5KMSixqxLcMHN0f0oiUvE2rQwIU=/850x446/s2.glbimg.com/Xdw2Ii3YcKAYkFlejYOFmqEms84=/695x0/s.glbimg.com/po/tt2/f/original/2014/03/11/veja-como-resolver-problemas-com-o-java-no-pc.jpg" />
 </code>](https://docs.oracle.com/en/java/)
 [<code>
+<img alt="java" width="40px" src="https://raw.githubusercontent.com/sschmid/Entitas-CSharp/develop/Readme/Images/csharp.png" />
+</code>](https://docs.microsoft.com/pt-br/dotnet/csharp/)
+[<code>
 <img alt="visual studio code" width="26px" src="https://img.icons8.com/fluent/240/000000/visual-studio-code-2019.png" />
 </code>](https://code.visualstudio.com/)
 [<code>
